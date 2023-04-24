@@ -1,0 +1,5 @@
+Fegyver_tipus;damage;talalat;gyakorisag
+smg;15;30;25
+rpg;100;80;2
+assault_rifle;31;45;18
+shotgun;10;90;14

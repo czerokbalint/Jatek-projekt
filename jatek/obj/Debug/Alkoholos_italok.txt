@@ -1,0 +1,6 @@
+nev;skill;
+whisky;eleterotad
+vodka;Jobban_birod_a_hideget
+tequila;feltolti_az_armorod
+koktélok;eleterodad
+gin;gyorsabb_leszel

@@ -1,0 +1,4 @@
+Nev;Heal;gyakorisag;
+bandage;50;50
+medkit;100;25
+fajdalom_csillapito;25;70
