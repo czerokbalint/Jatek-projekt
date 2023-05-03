@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IAlkoholos_ital.cs" />
+    <Compile Include="IHaton_viselheto.cs" />
+    <Compile Include="IHeal.cs" />
+    <Compile Include="Ilathato.cs" />
+    <Compile Include="ILoves.cs" />
+    <Compile Include="ITalalati_arany.cs" />
+    <Compile Include="IViselheto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
