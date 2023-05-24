@@ -8,5 +8,7 @@ namespace jatek
 {
     interface IAlkoholos_ital
     {
+        string nev { get; }
+        string skill { get; }
     }
 }
